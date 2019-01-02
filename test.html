@@ -13,13 +13,13 @@
   <button onclick="myPrompt()">click</button>
 </body>
 <script type="text/javascript">
-window.onload = function() {
-  window.connex.log('1211211111111111111')
-}
-function myPrompt () {
-  if (window.connex) {
-    window.connex.log('1211211111111111111')
+
+ 
+  function printHelloWorld() {
+      window.webkit.messageHandlers.test.postMessage("Hello, world!");
   }
-}
+  window.onload = printHelloWorld;
+ 
+</script>
 </script>
 </html>
