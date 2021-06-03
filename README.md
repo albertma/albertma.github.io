@@ -1,5 +1,5 @@
 ## Welcome to AlbertMa's Page
-I am a programmer for more than 10 years. And now I am working in startup company in Shanghai, doing to-bussiness online service.
+I am a programmer for more than 10 years. And now I am working in startup company in Shanghai, doing blockchain application service.
 
 I am very insterested in deep learning, and now working on the application of image recogintion. And I am very glade to communicate with some guy who has the same interesting.
 
